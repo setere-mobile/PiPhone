@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/setere/piphone/launch.sh %U
+Path=/opt/setere/piphone
+StartupNotify=true
+Terminal=false
+MimeType=x-scheme-handler/tel
+Name=piphone launcher
